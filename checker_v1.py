@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Replace with the actual URL of the webpage
 url = "https://results.knec.ac.ke"
-code = "20400001"  # Replace with the actual index number
+code = "20400002"  # Replace with the actual index number
 
 driver = webdriver.Firefox()  # Replace with the appropriate driver for your browser
 driver.get(url)
@@ -18,7 +18,7 @@ search_button = driver.find_element(By.CSS_SELECTOR, "button.btn-primary")
 """min = int(input("Enter lowest index: "))
 max = int(input("Enter highest index: "))"""
 
-for index in range(1, 501):
+for index in range(501, 601):
     flag = False
     index_number = code + str(index).zfill(3)
     index_field.send_keys(index_number)
