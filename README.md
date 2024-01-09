@@ -14,6 +14,21 @@ The school code is hard coded alongside the range of index numbers needed.
 - KAREN ' C ' SECONDARY   SCHOOL
 - MOI GIRLS' HIGH SCHOOL- ELDORET
 
+## Dependencies
+Esnure you have Python installed. I used Python 3.11.5 for on the machine I executed the code on.
+
+```
+Python 3.11.5
+```
+
+Install selenium
+
+```
+pip install selenium
+```
+
+By default selenium obtains the webdriver needed provided you have version 4.6 and later.
+
 ## All Hardware Configurations That Have Run It
 
 **HP Envy x360 2-in-1 Laptop 13-bf0xxx**
