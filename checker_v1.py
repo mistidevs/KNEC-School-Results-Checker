@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Replace with the actual URL of the webpage
 url = "https://results.knec.ac.ke"
-code = "20400002"  # Replace with the actual index number
+code = "26500001"  # Replace with the actual index number
 
 driver = webdriver.Firefox()  # Replace with the appropriate driver for your browser
 driver.get(url)
@@ -18,7 +18,7 @@ search_button = driver.find_element(By.CSS_SELECTOR, "button.btn-primary")
 """min = int(input("Enter lowest index: "))
 max = int(input("Enter highest index: "))"""
 
-for index in range(501, 601):
+for index in range(1, 501):
     flag = False
     index_number = code + str(index).zfill(3)
     index_field.send_keys(index_number)
@@ -41,7 +41,7 @@ for index in range(501, 601):
                 data_rows = driver.find_elements(By.CLASS_NAME, "row")[1:]
                 data = [row.text for row in data_rows]
                 if data != ['View Results\nPlease enter a valid index number and your registered name', 'View Results', '', '']:
-                    with open("results_kathianigirls.txt", "a") as file:
+                    with open("results.txt", "a") as file:
                         file.writelines(data[2:])
                     print(data[2:])
                     flag = True
