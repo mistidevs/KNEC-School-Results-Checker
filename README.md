@@ -11,6 +11,8 @@ The school code is hard coded alongside the range of index numbers needed.
 - THE KENYA HIGH SCHOOL
 - NAIROBI SCHOOL
 - LENANA SCHOOL
+- KAREN ' C ' SECONDARY   SCHOOL
+- MOI GIRLS' HIGH SCHOOL- ELDORET
 
 ## All Hardware Configurations That Have Run It
 
