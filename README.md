@@ -29,6 +29,18 @@ pip install selenium
 
 By default selenium obtains the webdriver needed provided you have version 4.6 and later.
 
+I have not verified if the code is backwards or forwards compatible with Python versions. Similarly, I do not guarantee that it will work on any machine except for one running Windows 11. I am open to contributions and bug fixes for different Operating systems
+
+## Feature Requests
+- Asynchronous handling
+- Conversion to .xlsx rather than .txt upon completion for Data Analysis
+- Support for MacOS
+- Support for Linux
+- Support for Windows 10
+- Support for Chrome
+- Support for Edge
+- Migration to Mojo to minimise overhead and utilisation of the GPU instead of the CPU
+
 ## All Hardware Configurations That Have Run It
 
 **HP Envy x360 2-in-1 Laptop 13-bf0xxx**
