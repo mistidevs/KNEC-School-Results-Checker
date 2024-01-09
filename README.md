@@ -7,3 +7,5 @@ The school code is hard coded alongside the range of index numbers needed.
 ## Schools available
 - OUR LADY OF MT.CARMEL MARYHILL GIRLS HIGH SCHOOL
 - ST.CLARE GIRLS' SECONDARY-ELBURGON
+- MOI GIRLS' SCHOOL NAIROBI
+- THE KENYA HIGH SCHOOL
