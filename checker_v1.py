@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Replace with the actual URL of the webpage
 url = "https://results.knec.ac.ke"
-code = "20400003"  # Replace with the actual index number
+code = "20400001"  # Replace with the actual index number
 
 driver = webdriver.Firefox()  # Replace with the appropriate driver for your browser
 driver.get(url)
