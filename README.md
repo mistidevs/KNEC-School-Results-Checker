@@ -22,5 +22,6 @@ Installed RAM	16.0 GB (15.7 GB usable)
 Opearating System Windows 11 Home (23H2)
 Graphics card Intel(R) Iris(R) Xe Graphics
 Storage SK Hynix BC& HM512GD£JX013N
+Python Version 3.11.5
 ```
 
