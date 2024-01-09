@@ -29,7 +29,7 @@ pip install selenium
 
 By default selenium obtains the webdriver needed provided you have version 4.6 and later.
 
-I have not verified if the code is backwards or forwards compatible with Python versions. Similarly, I do not guarantee that it will work on any machine except for one running Windows 11. I am open to contributions and bug fixes for different Operating systems
+I have not verified if the code is backwards or forwards compatible with Python versions. Similarly, I do not guarantee that it will work on any machine except for one running Windows 11. I am open to contributions and bug fixes for different Operating Systems
 
 ## Feature Requests
 - Asynchronous handling
