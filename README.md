@@ -13,6 +13,8 @@ The school code is hard coded alongside the range of index numbers needed.
 - LENANA SCHOOL
 - KAREN ' C ' SECONDARY   SCHOOL
 - MOI GIRLS' HIGH SCHOOL- ELDORET
+- ALLIANCE HIGH SCHOOL
+- ALLIANCE GIRLS HIGH SCHOOL
 
 ## Dependencies
 Esnure you have Python installed. I used Python 3.11.5 for on the machine I executed the code on.
