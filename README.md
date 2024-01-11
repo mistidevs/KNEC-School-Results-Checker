@@ -20,6 +20,7 @@ The school code is hard coded alongside the range of index numbers needed.
 - MASENO SCHOOL
 - MWONGORI SECONDARY SCHOOL
 - NEWLIGHT SENIOR BOYS SCHOOL
+
 ## Dependencies
 Esnure you have Python installed. I used Python 3.11.5 for on the machine I executed the code on.
 
