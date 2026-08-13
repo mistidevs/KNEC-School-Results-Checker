@@ -29,10 +29,12 @@ Esnure you have Python installed. I used Python 3.11.5 for on the machine I exec
 Python 3.11.5
 ```
 
-Install selenium
+Install selenium and web driver manager 
 
 ```
 pip install selenium
+pip install pip install webdriver-manager
+
 ```
 
 By default selenium obtains the webdriver needed provided you have version 4.6 and later.
@@ -42,7 +44,6 @@ By default selenium obtains the webdriver needed provided you have version 4.6 a
 - Conversion to .xlsx rather than .txt upon completion for Data Analysis
 - Support for MacOS
 - Support for Windows 10
-- Support for Chrome
 - Support for Edge
 - Migration to Mojo to minimise overhead and utilisation of the GPU instead of the CPU
 
